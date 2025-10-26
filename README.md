@@ -53,14 +53,14 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/velachacar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <img src="https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  <a href="https://www.linkedin.com/in/carlos-vela-chavez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg">
+  ![Pac-Man contribution graph (light)](https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg#gh-light-mode-only)
+  ![Pac-Man contribution graph (dark)](https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg">
 </picture>
 
