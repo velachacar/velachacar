@@ -57,11 +57,3 @@
 </p>
 
 ---
-
-<picture>
-  ![Pac-Man contribution graph (light)](https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg#gh-light-mode-only)
-  ![Pac-Man contribution graph (dark)](https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/velachacar/velachacar/output/pacman-contribution-graph.svg">
-</picture>
-
----
