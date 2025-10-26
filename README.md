@@ -2,7 +2,7 @@
 
 ### A passionate developer from Spain
 
-- 🔭 I'm currently working on **a Proton project with react and TypeScript**
+- 🔭 I'm currently working on **a Electron project with react and TypeScript**
 
 - 🌱 I'm currently learning **TypeScript, Python and Docker**
 
