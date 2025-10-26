@@ -30,7 +30,7 @@
 
 **💻 Programming Languages**
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cs,c" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c" /></a>
 </p>
 
 **🛠 Tools & Platforms**
